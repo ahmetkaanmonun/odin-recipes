@@ -1,0 +1,28 @@
+body{
+
+    background-color: aqua;
+
+
+
+}
+.index-style{
+
+    font-weight: bold;
+    color:burlywood
+
+
+}
+ul li {
+
+    list-style:upper-roman;
+
+
+
+}
+.link-content{
+
+    color:darkslategrey;
+    text-decoration: none;
+    font-size: 28px;
+
+}   
